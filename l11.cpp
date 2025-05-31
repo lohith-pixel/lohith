@@ -17,6 +17,5 @@ int main()
     {
         cout << "exception: " << asg << endl;
     }
-    return 0;
-}
+    return
     
